@@ -2,7 +2,7 @@
 
 **University of Messina**  
 **Cognitive Science and Theory of Communication (LM-55)**  
-**Master’s Degree, 2nd Year (2025/2026)**  
+**Master’s Degree, 2nd Year (2024/2025)**  
 **6 ECTS | English**  
 **Lectures & Labs (44 hours total: 24 h lectures, 20 h labs)**  
  
@@ -11,7 +11,7 @@
 
 ## Course Overview
 
-This repository hosts the weekly slide decks for the “Philosophy of Perception” course (A002894), offered in the 2025/2026 academic session at the University of Messina. Each PDF is uploaded as soon as it’s finalized and reflects the latest material covered in lectures and labs.
+This repository hosts the weekly slide decks for the “Philosophy of Perception” course (A002894), offered in the 2024/2025 academic session at the University of Messina. Each PDF is uploaded as soon as it’s finalized and reflects the latest material covered in lectures and labs.
 
 ## Learning Objectives
 
