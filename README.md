@@ -11,7 +11,7 @@
 
 ## Course Overview
 
-This repository hosts the weekly slide decks for the “Philosophy of Perception” course (A002894), offered in the 2024/2025 academic session at the University of Messina. Each PDF is uploaded as soon as it’s finalized and reflects the latest material covered in lectures and labs.
+This repository hosts the weekly slide decks for the “Philosophy of Perception” course (A002894), offered in the 2024/2025 academic session at the University of Messina.
 
 ## Learning Objectives
 
